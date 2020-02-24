@@ -163,3 +163,44 @@ span {
     cursor: pointer;
 }
 
+
+/* hero */
+
+#hero {
+    background: url("work.jpg") no-repeat center center/cover;
+    height: 500px;
+}
+
+#hero .hero-content {
+    text-align: center;
+}
+
+#hero .hero-content h1 {
+    margin-top: 15%;
+    font-size: 80px;
+    color: rgba(225, 225, 225, 0.637);
+    position: relative;
+}
+
+#hero .hero-content p {
+    font-size: 20px;
+    font-weight: 500;
+    color:#fff;
+}
+
+#hero .hero-content h1:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.hero-link {
+    text-decoration: none;
+}
+
+/* about */
+
+#about {
+    overflow: hidden;
+    height: 450px;
+}
+
