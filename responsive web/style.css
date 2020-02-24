@@ -234,3 +234,51 @@ span {
     color : #fff;
     font-size:50px;
 }
+
+
+/* contact */
+
+.contact-heading {
+    text-align: center;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+.contact-p {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+#contact-form {
+    margin-top :5%;
+    height: 650px;
+}
+
+#contact-form .form-group {
+    margin:auto;
+    padding-bottom: 5px;
+}
+
+#contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+#contact-form input,
+#contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px #ddd solid;
+}
+
+#contact-form textarea {
+    height: 200px;
+    margin-bottom: 25px;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+    outline: none;
+    border-color: rgb(0,143,112);
+}
