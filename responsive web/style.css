@@ -282,3 +282,14 @@ span {
     outline: none;
     border-color: rgb(0,143,112);
 }
+
+
+/* footer */
+
+
+#main-footer {
+    text-align: center;
+    background-color: rgb(0,143,112);
+    color:#fff;
+    padding: 20px;
+}
