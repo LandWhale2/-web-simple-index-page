@@ -33,7 +33,7 @@ span {
 }
 
 .dark-btn {
-    padding: 20px;
+    padding: 10px;
     background: #333;
     color:#fff;
     text-decoration: none;
@@ -245,6 +245,8 @@ span {
 }
 
 .contact-p {
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-weight: lighter;
     text-align: center;
     padding-bottom: 25px;
 }
