@@ -45,3 +45,60 @@ a {
 img {
     width: 70px;
 }
+
+.header {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header h1 {
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-weight: lighter; */
+    font-size: 46px; 
+}
+
+
+.tagline {
+    position: absolute;
+    top:60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tagline p{
+    color: #fff;
+    font-family: montserrat;
+    letter-spacing: 16px;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.btn {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+button {
+    padding: 16px 42px;
+    font-family:montserrat;
+    font-weight: 300;
+    text-transform: uppercase;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    transition: 0.9s;
+    font-size: 24px;
+    border : 1px solid #fff;
+}
+
+
+button:hover {
+    transition: .3s;
+    background: #fff;
+    color: #000;
+}
