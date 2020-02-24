@@ -32,3 +32,16 @@ a {
     font-weight: lighter;
     padding: 16px 40px;
 }
+
+
+.logo {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+img {
+    width: 70px;
+}
