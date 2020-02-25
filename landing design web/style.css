@@ -130,3 +130,59 @@ html, body {
     text-transform: uppercase;
     font-size: 12px;
 }
+
+
+.left-sidebar {
+    left: 60px;
+    position: absolute;
+    top: 46%;
+    transform: translateY(-50%);
+    width: 26%;
+}
+
+
+.left-sidebar button {
+    padding: 24px 48px;
+    background: #101010;
+    color: #fff;
+    outline: none;
+    border: none;
+    margin: 1em 0;
+    font-family: helvetica;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+
+
+.left-sidebar p {
+    font-family: helvetica;
+    font-weight: lighter;
+    line-height: 24px;
+    color: gray;
+}
+
+#price {
+    color : #000;
+}
+
+.media {
+    position: absolute;
+    bottom: 40px;
+    right: 60px;
+}
+
+
+.media ul {
+    list-style: none;
+}
+
+
+/* Icon들 가로로 정렬 */
+
+.media ul li {
+    display: inline-block;
+}
+
+.media ul li:not(:last-child) {
+    padding-right: 40px;
+}
