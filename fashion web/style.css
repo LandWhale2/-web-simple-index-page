@@ -206,11 +206,30 @@ html, body {
 
 /* animation */
 
+.tag-line span {
+    opacity: 0;
+    animation: appear-text 0.0001s linear forwards;
+    animation-delay: 2s;
+}
+
+.tag-line:after {
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background: #000;
+    position: absolute;
+    animation: rev-block 1.5s cubic-bezier(0.19, 1, 0.22,1) forwards;
+    animation-delay: 1.4s;
+}
+
 .title span {
     opacity: 0;
     animation: appear-text 0.0001s linear forwards;
     animation-delay: 2s;
 }
+
 
 .title:after {
     content: "";
