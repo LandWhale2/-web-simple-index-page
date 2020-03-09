@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+
+.sign-navbar {
+    color : #fff;
+    overflow: auto;
+}
+
+
+#sign-navbar ul {
+    list-style: none;
+    float: right;
+}
+
+
+#sign-navbar ul li {
+    float: left;
+    padding: 5px;
+}
+
+
+#sign-navbar ul li a {
+    display: block;
+    padding: 10px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color : #fff;
+    background-color:rgb(185, 181, 244);
+    border-radius: 10%;
+}
