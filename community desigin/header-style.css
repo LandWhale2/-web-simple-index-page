@@ -38,3 +38,49 @@ body {
     background-color:rgb(185, 181, 244);
     border-radius: 10%;
 }
+
+.title {
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 10%;
+}
+
+.title a{
+    color:rgb(185, 181, 244);
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+.section-line {
+    width: 50%;
+    height: 1px;
+    background: rgba(0,0,0,0.2);
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
+#navbar-section {
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+
+
+
+#menu-navbar ul{
+    list-style: none;
+}
+
+
+#menu-navbar ul li{
+    float: left;
+    background-color:rgb(185, 181, 244);
+    padding: 40px;
+    
+}
+
+
