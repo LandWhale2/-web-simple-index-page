@@ -22,3 +22,20 @@ body {
     padding-top: 50px;
     padding-bottom: 100px;
 }
+
+
+#header-navbar {
+    
+}
+
+
+#header-navbar .container ul {
+    list-style: none;
+}
+
+
+
+#header-navbar .container ul li {
+    padding: 20px;
+    float: left;
+}
