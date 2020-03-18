@@ -24,13 +24,14 @@ body {
 }
 
 
-#header-navbar {
+.main-nav {
     text-align: center;
 }
 
 
 #header-navbar .container ul {
     list-style: none;
+    text-align: center;
 }
 
 
@@ -38,4 +39,5 @@ body {
 #header-navbar .container ul li {
     padding: 20px;
     float: left;
+    
 }
