@@ -24,19 +24,23 @@ body {
 }
 
 
-.main-nav {
+
+
+
+.container {
     text-align: center;
 }
 
 
-.header-navbar .container ul {
+.container ul {
     list-style: none;
-    /* text-align: center; */
+    text-align: center;
 }
 
 
 
-.header-navbar .container ul li {
+.container ul li {
     padding: 30px;
     float: left;
 }
+
