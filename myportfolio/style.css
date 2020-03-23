@@ -51,5 +51,14 @@ body {
     text-align: center;
 }
 
+#skills-navbar ul {
+    list-style: none;
+}
+
+#skills-navbar ul li {
+    position: relative;
+    padding: 30px;
+    display: inline-block;
+}
 
 
