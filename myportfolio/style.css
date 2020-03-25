@@ -63,9 +63,25 @@ body {
 
 
 .intro {
+    padding: 100px;
     text-align: center;
 }
 
 #sub-intro {
+    text-align: center;
+    padding: 30px;
+}
+
+.projects-title {
+    padding: 100px;
+    text-align: center;
+}
+
+
+.contact-head {
+    text-align: center;
+}
+
+.contact-email {
     text-align: center;
 }
