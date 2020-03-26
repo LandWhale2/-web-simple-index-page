@@ -12,9 +12,10 @@ body {
 
 .main-header {
     max-width: 1100px;
+    height: 500px;
     margin: auto;
     overflow: hidden;
-    
+    background: black;
 }
 
 
@@ -85,3 +86,5 @@ body {
 .contact-email {
     text-align: center;
 }
+
+
