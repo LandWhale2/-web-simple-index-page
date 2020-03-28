@@ -45,8 +45,9 @@ body {
     text-align: center;
 }
 
-.fa fa-github {
-    font-family: none;
+.fa-github {
+    color: #fff;
+    text-decoration: none;
 }
 
 
