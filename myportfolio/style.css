@@ -63,7 +63,12 @@ body {
 
 
 #skills {
+    padding-top: 50px;
     text-align: center;
+}
+
+#skills-navbar {
+    padding-top: 50px;
 }
 
 #skills-navbar ul {
@@ -100,5 +105,7 @@ body {
 .contact-email {
     text-align: center;
 }
+
+
 
 
