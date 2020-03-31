@@ -63,8 +63,9 @@ body {
 
 
 #skills {
-    padding-top: 50px;
     text-align: center;
+    height: 50rem;
+    background-color: rgb(71, 69, 69);
 }
 
 #skills-navbar {
