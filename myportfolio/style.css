@@ -68,6 +68,14 @@ body {
     background-color: rgb(71, 69, 69);
 }
 
+.main-intro {
+    padding-top: 50px;
+}
+
+.main-intro h1 {
+    font-size: 30px;
+}
+
 #skills-navbar {
     padding-top: 50px;
 }
