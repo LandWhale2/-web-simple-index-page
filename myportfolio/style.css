@@ -76,19 +76,6 @@ body {
     font-size: 30px;
 }
 
-#skills-navbar {
-    padding-top: 50px;
-}
-
-#skills-navbar ul {
-    list-style: none;
-}
-
-#skills-navbar ul li {
-    position: relative;
-    padding: 30px;
-    display: inline-block;
-}
 
 
 .intro {
