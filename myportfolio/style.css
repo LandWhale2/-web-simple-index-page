@@ -78,15 +78,12 @@ body {
 
 
 
-.intro {
-    padding: 100px;
+#intro {
     text-align: center;
+    height: 50rem;
 }
 
-#sub-intro {
-    text-align: center;
-    padding: 30px;
-}
+
 
 .projects-title {
     padding: 100px;
