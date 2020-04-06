@@ -81,11 +81,14 @@ body {
 #intro {
     text-align: center;
     height: 50rem;
-    padding-top: 100px;
 }
 
 .intro {
-    padding: 100px 100px;
+    padding: 100px;
+}
+
+.sub-intro {
+    padding: 150px;
 }
 
 
