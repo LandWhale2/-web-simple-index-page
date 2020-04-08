@@ -93,6 +93,11 @@ body {
 }
 
 
+#projects-contents {
+    text-align: center;
+    height: 50rem;
+}
+
 
 .projects-title {
     padding: 100px;
