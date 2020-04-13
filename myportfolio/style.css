@@ -45,6 +45,11 @@ body {
     text-align: center;
 }
 
+
+.container ul li a:hover {
+    color: rgb(248, 0, 0);
+}
+
 .fa-github {
     color: #fff;
     text-decoration: none;
