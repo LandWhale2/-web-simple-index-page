@@ -13,7 +13,7 @@ body {
     height: 50rem;
     margin: auto;
     overflow: hidden;
-    background: black;
+    background: url(assets/code.jpg) no-repeat center center/cover;
 }
 
 
