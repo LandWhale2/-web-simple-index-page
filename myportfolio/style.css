@@ -114,18 +114,19 @@ body {
 
 #contact-box {
     text-align: center;
-    height: 10rem;
+    height: 20rem;
     background-color: rgb(187, 187, 187);
 }
 
 
 .contact-head {
+    padding-top: 100px;
     text-align: center;
 }
 
 .contact-email {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 
