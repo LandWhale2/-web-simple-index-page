@@ -73,6 +73,17 @@ body {
     background-color: rgb(71, 69, 69);
 }
 
+
+.col-skills-1 {
+    height: 10rem;
+    background-color: rgb(241, 9, 9);
+}
+.col-skills-2 {
+    height: 10rem;
+    background-color: rgb(0, 225, 255);
+}
+
+
 .main-intro {
     padding-top: 50px;
 }
