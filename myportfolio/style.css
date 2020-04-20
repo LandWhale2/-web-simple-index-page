@@ -74,13 +74,17 @@ body {
 }
 
 
-.col-skills-1 {
+.row-skills-1 {
     height: 10rem;
     /* background-color: rgb(241, 9, 9); */
 }
-.col-skills-2 {
+.row-skills-2 {
     height: 10rem;
     background-color: rgb(0, 225, 255);
+}
+
+.progress {
+    width: 25rem;
 }
 
 
