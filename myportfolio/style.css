@@ -73,12 +73,18 @@ body {
     background-color: rgb(71, 69, 69);
 }
 
+.skill-table {
+    display: table;
+    width: 100%;
+}
+
 
 .row-skills-1 {
     text-align: center;
     height: 10rem;
     position: relative;
     /* background-color: rgb(241, 9, 9); */
+    display: table-row;
     
 }
 .row-skills-2 {
