@@ -88,9 +88,9 @@ body {
     
 }
 .row-skills-2 {
-    
     height: 10rem;
     background-color: rgb(0, 225, 255);
+    display: table-row;
 }
 
 .col-skill-1 {
@@ -98,6 +98,7 @@ body {
     top: 100px;
     left: 100px;
     background-color: rgb(0, 225, 255);
+    display: table-cell;
     
 }
 
@@ -105,6 +106,7 @@ body {
     position: absolute;
     top: 0px;
     left: 100px;
+    display: table-cell;
 }
 
 .progress {
