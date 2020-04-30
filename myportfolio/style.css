@@ -151,12 +151,14 @@ col-md-6 animate-box {
     text-align: center;
 }
 
-row-projects-1 {
-    height: 10rem;
-    background-color: blue;
-    width: 30px;
-    text-align: center;
-    display: block;
+.row-projects-1 {
+    /* display: flex; */
+    color:red;
+}
+
+.row1-col-project {
+    float: left;
+    color: blue;
 }
 
 
