@@ -158,7 +158,7 @@ col-md-6 animate-box {
 
 .row1-col-project {
     float: left;
-    color: blue;
+    background-color: rgb(0, 225, 255);
 }
 
 
