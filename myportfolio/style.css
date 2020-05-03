@@ -152,7 +152,7 @@ col-md-6 animate-box {
 }
 
 .row-projects-1 {
-    /* display: flex; */
+    display: grid;
     background-color: rgb(0, 225, 255);
 }
 
