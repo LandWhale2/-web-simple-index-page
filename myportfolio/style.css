@@ -160,9 +160,15 @@ col-md-6 animate-box {
 }
 .item:nth-child(1) {
   grid-column: 1 / 4;
+  background-color: rebeccapurple;
+}
+.item:nth-child(2) {
+    grid-column: 1 / 4;
+    background-color: rgb(227, 230, 57);
 }
 .item:nth-child(3) {
   grid-column: span 2;
+  background-color: greenyellow;
 }
 
 
