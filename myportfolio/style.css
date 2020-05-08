@@ -170,7 +170,18 @@ col-md-6 animate-box {
   grid-column: span 2;
   background-color: greenyellow;
 }
-
+.item:nth-child(4) {
+    grid-column: span 2;
+    background-color: rgb(209, 37, 132);
+}
+.item:nth-child(5) {
+  grid-column: span 2;
+  background-color: rgb(30, 24, 82);
+}
+.item:nth-child(6) {
+  grid-column: 1 / 4;
+  background-color: rgb(57, 212, 42);
+}
 
 
 
