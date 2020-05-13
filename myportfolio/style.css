@@ -175,6 +175,14 @@ col-md-6 animate-box {
     grid-column: span 1;
     background-color: rgb(209, 37, 132);
 }
+.item:nth-child(5) {
+    grid-column: span 1;
+    background-color: rgb(167, 113, 142);
+}
+.item:nth-child(6) {
+    grid-column: span 1;
+    background-color: rgb(124, 184, 57);
+}
 
 
 #contact-box {
