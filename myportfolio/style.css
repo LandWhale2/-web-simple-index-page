@@ -163,6 +163,11 @@ col-md-6 animate-box {
   grid-column: span 1;
   background-color: rebeccapurple;
 }
+
+.pic {
+    background-color: aqua;
+}
+
 .item:nth-child(2) {
     grid-column: span 1;
     background-color: rgb(227, 230, 57);
