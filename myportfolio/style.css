@@ -66,6 +66,8 @@ body {
 #skills {
     text-align: center;
     height: 50rem;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .main-intro {
