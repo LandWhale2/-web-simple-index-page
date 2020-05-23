@@ -63,18 +63,20 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+
+
+.main-intro {
+    text-align: center;
+    /* padding: 50px; */
+}
+
+
 #skills {
     text-align: center;
     height: 50rem;
     padding-left: 100px;
     padding-right: 100px;
 }
-
-.main-intro {
-    text-align: center;
-    padding: 50px;
-}
-
 
 .skill-container {
     display: grid;
