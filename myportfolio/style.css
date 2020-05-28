@@ -33,13 +33,14 @@ body {
 .container ul {
     list-style: none;
     text-align: center;
+    float: right;
 }
 
 
 
 .container ul li {
     padding: 30px;
-    display: inline-block;
+    /* display: inline-block; */
     position: relative;
     text-align: center;
 }
