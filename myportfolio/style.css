@@ -166,10 +166,13 @@ body {
 
 }
 
-.pic {
+.pic:nth-child(1) {
     background-color: aqua;
     grid-column: span 1;
-
+}
+.pic:nth-child(2) {
+    background-color: rgb(58, 201, 106);
+    grid-column: span 1;
 }
 
 .item:nth-child(2) {
