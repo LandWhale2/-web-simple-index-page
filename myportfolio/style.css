@@ -163,7 +163,6 @@ body {
   background-color: rebeccapurple;
   display: grid;
   grid-template-rows: repeat(1, 200px);
-
 }
 
 .pic:nth-child(1) {
@@ -178,7 +177,20 @@ body {
 .item:nth-child(2) {
     grid-column: span 1;
     background-color: rgb(227, 230, 57);
+    display: grid;
+    grid-template-rows: repeat(1, 200px);
 }
+
+.pic:nth-child(1) {
+    background-color: rgb(106, 68, 209);
+    grid-column: span 1;
+}
+.pic:nth-child(2) {
+    background-color: rgb(182, 127, 83);
+    grid-column: span 1;
+}
+
+
 .item:nth-child(3) {
   grid-column: span 1;
   background-color: greenyellow;
