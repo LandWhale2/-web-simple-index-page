@@ -103,6 +103,8 @@ body {
     height: 100px;
     border: 1px solid blue;
     float: left;
+    width: 150px;
+    margin: 30px;
 }
 
 
