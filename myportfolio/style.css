@@ -100,9 +100,9 @@ body {
 }
 
 #skill-box {
-    height: 100px;
+    height: 300px;
     border: 1px solid blue;
-    width: 400px;
+    width: 415px;
     float: left;
 }
 
@@ -110,7 +110,7 @@ body {
     border: 1px solid blue;
     float: left;
     height: 100px;
-    width: 200px;
+    width: 415px;
 }
 
 
