@@ -107,7 +107,7 @@ body {
 }
 
 #skill-context-box {
-    border: 1px solid blue;
+    background-color: rebeccapurple;
     float: left;
     height: 100px;
     width: 415px;
