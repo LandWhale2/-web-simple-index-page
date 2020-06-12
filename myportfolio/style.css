@@ -102,15 +102,16 @@ body {
 #skill-box {
     height: 300px;
     border: 1px solid blue;
-    width: 415px;
+    width: 300px;
     float: left;
+    margin-left: 30px;
 }
 
 #skill-context-box {
     background-color: rebeccapurple;
     float: left;
     height: 100px;
-    width: 415px;
+    width: 300px;
 }
 
 
