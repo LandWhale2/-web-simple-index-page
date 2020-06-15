@@ -102,6 +102,7 @@ body {
 #skill-box {
     height: 300px;
     border: 1px solid blue;
+    background: url("assets/code.jpg") no-repeat center center/cover;
     width: 415px;
     float: left;
 }
