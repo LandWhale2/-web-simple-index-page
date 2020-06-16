@@ -96,13 +96,13 @@ body {
 
 .skill-table:nth-child(1) {
     grid-column: span 1;
-    background-color: rgb(227, 230, 57);
+    background: url("assets/code.jpg") no-repeat center center/cover;
 }
 
-#skill-box {
+/* #skill-box {
     height: 300px;
     border: 1px solid blue;
-    background: url("assets/code.jpg") no-repeat center center/cover;
+    
     width: 415px;
     float: left;
 }
@@ -112,7 +112,7 @@ body {
     float: left;
     height: 100px;
     width: 415px;
-}
+} */
 
 
 .skill-table:nth-child(2) {
