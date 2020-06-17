@@ -94,14 +94,9 @@ body {
 }
 
 
-.skill-table:nth-child(1) {
+.image-box {
     grid-column: span 1;
     background: url("assets/code.jpg") no-repeat center center/cover;
-}
-
-.skill-table:nth-child(1):hover{
-    grid-column: span 1;
-    background:brown;
 }
 
 
