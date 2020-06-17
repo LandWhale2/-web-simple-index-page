@@ -99,20 +99,10 @@ body {
     background: url("assets/code.jpg") no-repeat center center/cover;
 }
 
-/* #skill-box {
-    height: 300px;
-    border: 1px solid blue;
-    
-    width: 415px;
-    float: left;
+.skill-table:nth-child(1):hover{
+    grid-column: span 1;
+    background:brown;
 }
-
-#skill-context-box {
-    background-color: rebeccapurple;
-    float: left;
-    height: 100px;
-    width: 415px;
-} */
 
 
 .skill-table:nth-child(2) {
